@@ -3,3 +3,5 @@ git rebase
 help
 
 dev changes
+
+for merge commit for 2 file
